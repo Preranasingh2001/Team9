@@ -35,7 +35,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Samadhan ( समाधान )</h3>
+<h2 align="center">Samadhan ( समाधान )</h2>
 
   <p align="center">
     One stop solution for learning...
