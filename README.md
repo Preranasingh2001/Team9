@@ -207,7 +207,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <li>Parul Dhand -<a href="https://github.com/Paruldhand">@Paruldhand</a> - paruldhand20@gmail.com</li>
 <li>Pawan Chatterjee -<a href="https://github.com/PawanChatterjee">@PawanChatterjee</a> - pawanchatterjee93@gmail.com </li>
 <br>
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [Team 9](https://github.com/Preranasingh2001/Team9)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
