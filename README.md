@@ -202,10 +202,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-<li>Dharshini - [@dharshini-248](https://github.com/dharshini-248)- dharshini24cse@gmail.com</li>
+<li>Dharshini - @dharshini-248 - (https://github.com/dharshini-248 ) - dharshini24cse@gmail.com</li>
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
+<br>
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
