@@ -90,7 +90,7 @@
 
 ## Problem statement
 <h4>If a country’s rural education sector is working well, it reflects on the entire economic state of a country. Rural schools in India have to face a lot of suffering.</h4>
-<h4>Traveling across the length and breadth of Bihar and especially in its poorest districts one comes face to face with the dilapidated school education scenario where broken/dilapidated school buildings, non-recruitment of staff, perpetual teacher absenteeism.</h4>
+<h4>Traveling across the length and breadth of Bihar and especially in its poorest districts one comes face to face with the dilapidated school education scenario where there are problems like broken/dilapidated school buildings, non-recruitment of staff, perpetual teacher absenteeism.</h4>
 <br>
 <li>Despite literacy rising, 62% of primary students do not complete secondary education in Bihar.</li>
 <li>There are not enough classrooms, teachers.</li>
