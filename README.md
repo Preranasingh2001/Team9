@@ -204,7 +204,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 <li>Dharshini - <a href="https://github.com/dharshini-248">@dharshini-248</a> - dharshini24cse@gmail.com</li>
 <li>Prerana Singh -<a href= "https://github.com/Preranasingh2001">@Preranasingh2001</a> - preranasingh2001@gmail.com</li>
-<li>Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com</li>
+<li>Parul Dhand -<a href="https://github.com/Paruldhand">@Paruldhand</a> - paruldhand20@gmail.com</li>
+<li>Pawan Chatterjee -<a href="https://github.com/PawanChatterjee">@PawanChatterjee</a> - pawanchatterjee93@gmail.com </li>
 <br>
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
