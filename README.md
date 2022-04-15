@@ -38,7 +38,7 @@
 <h3 align="center">Samadhan ( समाधान )</h3>
 
   <p align="center">
-    project_description
+    One stop solution for learning...
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -86,18 +86,43 @@
 
 
 ## Domain Name
-<!-- ABOUT THE PROJECT -->
+<h3>EdTech</h3>
+
 ## Problem statement
-<!-- ABOUT THE PROJECT -->
+<h4>If a country’s rural education sector is working well, it reflects on the entire economic state of a country. Rural schools in India have to face a lot of suffering.</h4>
+<h4>Traveling across the length and breadth of Bihar and especially in its poorest districts one comes face to face with the dilapidated school education scenario where broken/dilapidated school buildings, non-recruitment of staff, perpetual teacher absenteeism.</h4>
+<br>
+<li>Despite literacy rising, 62% of primary students do not complete secondary education in Bihar.</li>
+<li>There are not enough classrooms, teachers.</li>
+<li>Lowest per student expenditure on elementary education.</li>
+<li>Inadequate expenditure on the infrastructure of schools.</li>
+<li>There are a lot of resources on the Internet but it costs a lot of time to get the right courses they need.</li>
+<li>Private tuition is not affordable.</li>
+<br>
+<h4><i>We as a society need to acknowledge that education is among the most basic of needs and people irrespective of their socio-cultural location must have undisputed access to it. Nothing must be allowed to snatch away the educational dreams of millions of Indian children belonging to the disadvantaged sections of the society.</i></h4>
+
+
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
+`dharshini-248`,`PawanChatterjee`,`Paruldhand`,`Preranasingh2001`, `Team9`, `Samadhan`<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/63097779/163597574-e9f2f010-8dfb-439d-9ff0-c88d9b983196.png" height=500 width=800></img>
+</p>
+<br>
+<h4>Education has always been a foundation for economic and social development and it will be essential for the knowledge economies of the 21st century. Education manifests itself in many ways like cognitive thinking, affirmative thought system etc. It brings well-being to the society.</h4>
+<h3><i>To deal with the problems faced by the students from rural background:</i></h3>
+<ol>
+<li>We are going to build a platform which will be the one stop solution for the rural area students to continue with their school education. They will be provided with a complete roadmap of syllabus in order to compete for the examination. </li>
+<li>All the subject courses will be provided to Class 9th and 10th.</li>
+<li>One common English course will be provided to every age group of students.</li>
+<li>Students will have to complete the assigned quizzes.</li>
+<li>Relevant chapters will be recommended  for the students who are struggling in the particular subject.</li>
+<li>Students will be provided with doubt segment.</li>
+<li>Notes in the form of e-books will be provided so that they have access to study material.</li>
+<li>We are providing cost effective technology which will reduce the financial burden of rural families.</li>
+<li>Students will have an exact environment as they get in school.</li>
+</ol>
+<h4>Level of literacy and educational attainment are important indicators of development of any given society and we cannot exclude rural children in the development of any society as they equally contribute to the progress of the society and largely to the economy.</h4><br>
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 
