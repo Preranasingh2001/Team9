@@ -87,7 +87,7 @@
 
 ## Domain Name
 <!-- ABOUT THE PROJECT -->
-## Problem Statement
+## Problem statement
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
